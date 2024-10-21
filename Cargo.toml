@@ -4,8 +4,7 @@ members = [
     "yas",
     "yas-genshin",
     "yas-starrail",
-    "yas-derive",
-    "yas-application"]
+    "yas-derive"]
 
 [profile.release]
 lto = true
